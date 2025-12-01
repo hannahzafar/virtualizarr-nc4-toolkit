@@ -209,3 +209,5 @@ __marimo__/
 # pixi environments
 .pixi
 *.egg-info
+*/micasa-data
+micasa_test/
